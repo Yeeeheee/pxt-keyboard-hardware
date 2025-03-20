@@ -1,0 +1,17 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "aacaf8ca-f091-4a9f-bb63-c347465eabdd")
+	(paper "A4")
+	(title_block
+		(title "Micro:bit Keyboard V3")
+		(date "2024-12-16")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
